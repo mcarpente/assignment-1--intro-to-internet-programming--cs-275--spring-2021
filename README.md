@@ -71,7 +71,7 @@ Make sure Atom continually reports `No errors were found!` in the lower left han
 ---
 
 ## Due
-Saturday, 5 March 2021, at 11:59 PM.
+Friday, 5 March 2021, at 11:59 PM.
 
 ---
 
